@@ -10,3 +10,6 @@ script will search for the MPRO XMLs and will find automatically the clip XMLs.
 It also looks if the clips defined in the XMLs are physically there.
 
 Second window prompts you to save the final ALE file.
+
+In Avid Mediacomposer make sure you have all the rows activated in the bin to see all metadata.
+In the on the lower left corner - click the = menu - set coloumns
